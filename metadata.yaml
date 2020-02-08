@@ -1,0 +1,27 @@
+_repo: Out-of-Death-s-Shadow-Or-A-Case-Without-a-Precedent_61135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/1599
+    - http://www.gutenberg.org/ebooks/author/43953
+description: ''
+gutenberg_issued: '2020-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'Popular literature'
+- GITenberg
+title: Out of Death's Shadow; Or, A Case Without a Precedent
+url: http://www.gutenberg.org/ebooks/61135
